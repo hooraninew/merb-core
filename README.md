@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Move Explorer tests to scheduled CI (#8305)
